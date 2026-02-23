@@ -1,4 +1,4 @@
-import Hero from "../components/hero";
+import Hero from "../components/Hero";
 import Pain from "../components/Pain";
 import Truth from "../components/Truth";
 import Offer from "../components/Offer";
