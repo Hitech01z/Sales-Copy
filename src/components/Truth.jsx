@@ -1,4 +1,4 @@
-import { copy } from "../data/Copy";
+import { copy } from "../data/copy";
 import { images } from "../data/images";
 
 const Truth = () => {
